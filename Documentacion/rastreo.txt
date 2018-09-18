@@ -1,0 +1,23 @@
+commit ce61b0573a7d26017a74b04ad62b21453cc48ecd
+Author: [MaxiReichert] <[maximilianoreichert@gmail.com]>
+Date:   Tue Sep 18 19:25:30 2018 -0300
+
+    Diff con versiones previas
+
+commit fd0cea8ce169911ad1ad06a92615b4587e1e69b1
+Author: Martin <mar.inc.987@gmail.com>
+Date:   Tue Sep 18 18:30:16 2018 -0300
+
+    Modificacion de DocumentoVacio, incorporando el arbol del directorio
+
+commit f2eeb0a596de5ed15404efaa92ad7ebeb6f2b2b2
+Author: [fran92] <[franchufanton_27@hotmail.com]>
+Date:   Tue Sep 18 16:35:34 2018 -0300
+
+    DocumentoVacío como pidio la cátedra en CARPETA: Documentacion en RAMA: MantenimientoCorrectivo
+
+commit 1d492e83a9b2520d44b30fa2ea1f71c36716b118
+Author: ferchuchus <fermixmax_452@hotmail.com>
+Date:   Mon Sep 17 19:11:11 2018 -0300
+
+    Estructura a Versionar
